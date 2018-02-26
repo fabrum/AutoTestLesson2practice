@@ -1,0 +1,7 @@
+D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\Waters.QualityTools.Automation.Tests\obj\Debug\Waters.QualityTools.Automation.Test.csprojResolveAssemblyReference.cache
+D:\MyRepos\A1qa.Csharp.White\bin\chromedriver.exe
+D:\MyRepos\A1qa.Csharp.White\bin\Waters.QualityTools.Automation.Test.dll.config
+D:\MyRepos\A1qa.Csharp.White\bin\Waters.QualityTools.Automation.Test.dll
+D:\MyRepos\A1qa.Csharp.White\bin\Waters.QualityTools.Automation.Test.pdb
+D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\Waters.QualityTools.Automation.Tests\obj\Debug\Waters.QualityTools.Automation.Test.dll
+D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\Waters.QualityTools.Automation.Tests\obj\Debug\Waters.QualityTools.Automation.Test.pdb

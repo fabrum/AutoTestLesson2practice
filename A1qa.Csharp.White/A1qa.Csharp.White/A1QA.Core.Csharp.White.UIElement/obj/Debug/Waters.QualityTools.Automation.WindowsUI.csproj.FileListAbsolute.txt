@@ -1,0 +1,8 @@
+D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\Waters.QualityTools.Automation.WindowsUI\obj\Debug\Waters.QualityTools.Automation.WindowsUI.csprojResolveAssemblyReference.cache
+D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\Waters.QualityTools.Automation.WindowsUI\obj\Debug\Waters.QualityTools.Automation.WindowsUI.Properties.Resources.resources
+D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\Waters.QualityTools.Automation.WindowsUI\obj\Debug\Waters.QualityTools.Automation.WindowsUI.csproj.GenerateResource.Cache
+D:\MyRepos\A1qa.Csharp.White\bin\chromedriver.exe
+D:\MyRepos\A1qa.Csharp.White\bin\Waters.QualityTools.Automation.WindowsUI.dll
+D:\MyRepos\A1qa.Csharp.White\bin\Waters.QualityTools.Automation.WindowsUI.pdb
+D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\Waters.QualityTools.Automation.WindowsUI\obj\Debug\Waters.QualityTools.Automation.WindowsUI.dll
+D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\Waters.QualityTools.Automation.WindowsUI\obj\Debug\Waters.QualityTools.Automation.WindowsUI.pdb
