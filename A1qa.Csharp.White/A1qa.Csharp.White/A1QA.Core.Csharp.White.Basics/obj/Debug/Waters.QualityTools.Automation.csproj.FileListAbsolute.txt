@@ -1,0 +1,9 @@
+D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\Waters.QualityTools.Automation\obj\Debug\Waters.QualityTools.Automation.csprojResolveAssemblyReference.cache
+D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\Waters.QualityTools.Automation\obj\Debug\Waters.QualityTools.Automation.Properties.Resources.resources
+D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\Waters.QualityTools.Automation\obj\Debug\Waters.QualityTools.Automation.Resources.DefaultFriendlyMessage.resources
+D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\Waters.QualityTools.Automation\obj\Debug\Waters.QualityTools.Automation.csproj.GenerateResource.Cache
+D:\MyRepos\A1qa.Csharp.White\bin\chromedriver.exe
+D:\MyRepos\A1qa.Csharp.White\bin\Waters.QualityTools.Automation.dll
+D:\MyRepos\A1qa.Csharp.White\bin\Waters.QualityTools.Automation.pdb
+D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\Waters.QualityTools.Automation\obj\Debug\Waters.QualityTools.Automation.dll
+D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\Waters.QualityTools.Automation\obj\Debug\Waters.QualityTools.Automation.pdb

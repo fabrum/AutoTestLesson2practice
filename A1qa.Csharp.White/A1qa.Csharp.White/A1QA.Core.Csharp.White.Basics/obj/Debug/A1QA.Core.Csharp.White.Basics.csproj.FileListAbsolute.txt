@@ -1,0 +1,8 @@
+D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\A1QA.Core.Csharp.White.Basics\obj\Debug\A1QA.Core.Csharp.White.Basics.Properties.Resources.resources
+D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\A1QA.Core.Csharp.White.Basics\obj\Debug\A1QA.Core.Csharp.White.Basics.Resources.DefaultFriendlyMessage.resources
+D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\A1QA.Core.Csharp.White.Basics\obj\Debug\A1QA.Core.Csharp.White.Basics.csproj.GenerateResource.Cache
+D:\MyRepos\A1qa.Csharp.White\bin\A1QA.Core.Csharp.White.Basics.dll
+D:\MyRepos\A1qa.Csharp.White\bin\A1QA.Core.Csharp.White.Basics.pdb
+D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\A1QA.Core.Csharp.White.Basics\obj\Debug\A1QA.Core.Csharp.White.Basics.dll
+D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\A1QA.Core.Csharp.White.Basics\obj\Debug\A1QA.Core.Csharp.White.Basics.pdb
+D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\A1QA.Core.Csharp.White.Basics\obj\Debug\A1QA.Core.Csharp.White.Basics.csprojResolveAssemblyReference.cache
