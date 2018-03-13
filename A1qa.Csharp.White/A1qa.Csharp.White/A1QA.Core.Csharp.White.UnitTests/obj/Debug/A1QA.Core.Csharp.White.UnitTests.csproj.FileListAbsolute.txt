@@ -4,3 +4,9 @@ D:\MyRepos\A1qa.Csharp.White\bin\A1QA.Core.Csharp.White.UnitTests.dll
 D:\MyRepos\A1qa.Csharp.White\bin\A1QA.Core.Csharp.White.UnitTests.pdb
 D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\A1QA.Core.Csharp.White.UnitTests\obj\Debug\A1QA.Core.Csharp.White.UnitTests.dll
 D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\A1QA.Core.Csharp.White.UnitTests\obj\Debug\A1QA.Core.Csharp.White.UnitTests.pdb
+D:\MyRepos\SelfEducation\bin\A1QA.Core.Csharp.White.UnitTests.dll.config
+D:\MyRepos\SelfEducation\bin\A1QA.Core.Csharp.White.UnitTests.dll
+D:\MyRepos\SelfEducation\bin\A1QA.Core.Csharp.White.UnitTests.pdb
+D:\MyRepos\SelfEducation\A1qa.Csharp.White\A1QA.Core.Csharp.White.UnitTests\obj\Debug\A1QA.Core.Csharp.White.UnitTests.csprojResolveAssemblyReference.cache
+D:\MyRepos\SelfEducation\A1qa.Csharp.White\A1QA.Core.Csharp.White.UnitTests\obj\Debug\A1QA.Core.Csharp.White.UnitTests.dll
+D:\MyRepos\SelfEducation\A1qa.Csharp.White\A1QA.Core.Csharp.White.UnitTests\obj\Debug\A1QA.Core.Csharp.White.UnitTests.pdb

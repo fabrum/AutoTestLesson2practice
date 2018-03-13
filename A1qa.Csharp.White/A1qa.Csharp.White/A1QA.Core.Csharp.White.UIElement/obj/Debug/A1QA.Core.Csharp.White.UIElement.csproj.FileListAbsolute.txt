@@ -6,3 +6,11 @@ D:\MyRepos\A1qa.Csharp.White\bin\A1QA.Core.Csharp.White.UIElement.pdb
 D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\A1QA.Core.Csharp.White.UIElement\obj\Debug\A1QA.Core.Csharp.White.UIElement.dll
 D:\MyRepos\A1qa.Csharp.White\A1qa.Csharp.White\A1QA.Core.Csharp.White.UIElement\obj\Debug\A1QA.Core.Csharp.White.UIElement.pdb
 D:\MyRepos\A1qa.Csharp.White\bin\A1QA.Core.Csharp.White.UIElement.dll.config
+D:\MyRepos\SelfEducation\bin\A1QA.Core.Csharp.White.UIElement.dll.config
+D:\MyRepos\SelfEducation\bin\A1QA.Core.Csharp.White.UIElement.dll
+D:\MyRepos\SelfEducation\bin\A1QA.Core.Csharp.White.UIElement.pdb
+D:\MyRepos\SelfEducation\A1qa.Csharp.White\A1QA.Core.Csharp.White.UIElement\obj\Debug\A1QA.Core.Csharp.White.UIElement.csprojResolveAssemblyReference.cache
+D:\MyRepos\SelfEducation\A1qa.Csharp.White\A1QA.Core.Csharp.White.UIElement\obj\Debug\A1QA.Core.Csharp.White.UIElement.Properties.Resources.resources
+D:\MyRepos\SelfEducation\A1qa.Csharp.White\A1QA.Core.Csharp.White.UIElement\obj\Debug\A1QA.Core.Csharp.White.UIElement.csproj.GenerateResource.Cache
+D:\MyRepos\SelfEducation\A1qa.Csharp.White\A1QA.Core.Csharp.White.UIElement\obj\Debug\A1QA.Core.Csharp.White.UIElement.dll
+D:\MyRepos\SelfEducation\A1qa.Csharp.White\A1QA.Core.Csharp.White.UIElement\obj\Debug\A1QA.Core.Csharp.White.UIElement.pdb
